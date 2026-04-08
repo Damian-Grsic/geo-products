@@ -1,0 +1,21 @@
+ID=001
+NAME=Erdkraken Kopf 65mm
+DESC=Standardkopf für harte Böden
+PRICE=19.99
+CATEGORY=Standard
+DISCOUNT=false
+
+ID=002
+NAME=Starterpaket 65mm
+DESC=Kopf + Federn + Öl
+PRICE=29.99
+CATEGORY=Pakete
+DISCOUNT=false
+
+ID=003
+NAME=Öl 250ml
+DESC=Hochwertiges Spezialöl
+PRICE=19.99
+CATEGORY=Rabatte
+DISCOUNT=true
+DISCOUNTPRICE=14.99
