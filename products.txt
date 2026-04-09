@@ -20,6 +20,13 @@ CATEGORY=Rabatte
 DISCOUNT=true
 DISCOUNTPRICE=14.99
 
+ID=004
+NAME=Testprodukt 
+DESC=Produkt 
+PRICE=14.99
+CATEGORY=Rabatte
+DISCOUNT=true
+DISCOUNTPRICE=09.99
 
 ID=005
 NAME=75 Schwingkopf 
@@ -27,5 +34,21 @@ DESC=GEO 75 Schwingkopf
 PRICE=6.369
 CATEGORY=Standart 
 DISCOUNT=false 
+DISCOUNTPRICE=
+
+ID=006
+NAME=Kaeser Paket  
+DESC=Kaeser M13 + GEO Z 68 Schwingkopf incl. Ömer 4 L + Schlauch 15 M + 5 L GEO Öl + Zusatzschlauch 3/4 + Peilrahmen  
+PRICE=12.816
+CATEGORY=Pakete 
+DISCOUNT=false 
+DISCOUNTPRICE= 
+
+ID=007
+NAME=Test 
+DESC=Test 
+PRICE=00.00 
+CATEGORY=Standard 
+DISCOUNT=false
 DISCOUNTPRICE=
 
