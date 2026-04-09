@@ -28,8 +28,8 @@ CATEGORY=Pakete
 DISCOUNT=false
 
 ID=005
-NAME=Helm
-DESC=Standardkopf für harte Böden
-PRICE=20.50
+NAME=Z 48 
+DESC=GEO Z 48 Schwingkopf 
+PRICE=3.541
 CATEGORY=Standard
 DISCOUNT=false
