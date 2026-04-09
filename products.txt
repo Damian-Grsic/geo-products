@@ -35,3 +35,11 @@ PRICE=6.369
 CATEGORY=Standart 
 DISCOUNT=false 
 DISCOUNTPRICE=
+
+ID=005
+NAME=Kaeser Paket  
+DESC=Kaeser M13 + GEO Z 68 Schwingkopf incl. Ömer 4 L + Schlauch 15 M + 5 L GEO Öl + Zusatzschlauch 3/4 + Peilrahmen  
+PRICE=12.816
+CATEGORY=Pakete 
+DISCOUNT=false 
+DISCOUNTPRICE= 
