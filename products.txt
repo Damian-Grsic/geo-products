@@ -30,6 +30,6 @@ DISCOUNT=false
 ID=005
 NAME=Helm
 DESC=Standardkopf für harte Böden
-PRICE=19.99
+PRICE=20.50
 CATEGORY=Standard
 DISCOUNT=false
