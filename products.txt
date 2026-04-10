@@ -94,10 +94,4 @@ CATEGORY=Pakete
 DISCOUNT=false
 DISCOUNTPRICE=
 
-ID=013
-NAME=Kaeser Paket 
-DESC=Kompressor + Erdrakete 
-PRICE=10000 
-CATEGORY=Pakete
-DISCOUNT=false 
-DISCOUNTPRICE=
+
